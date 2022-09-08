@@ -1,0 +1,3 @@
+jetnet==0.2.1
+matplotlib
+scikit-learn
