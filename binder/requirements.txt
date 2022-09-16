@@ -1,4 +1,4 @@
-jetnet==0.2.1
+jetnet==0.2.1.post2
 matplotlib
 scikit-learn
 jupyter
